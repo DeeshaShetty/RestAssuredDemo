@@ -1,0 +1,16 @@
+{
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362
+    },
+    "accuracy": 50,
+    "name": "Sakshath-Technologies",
+    "phone_number": "(+91) 983 893 3937",
+    "address": "Wework,Vikroli-west,mumbai",
+    "types": [
+        "Power BI",
+        "Automation"
+    ],
+    "website": "https://www.sakshath-technologies.com/",
+    "language": "English-IN"
+}
